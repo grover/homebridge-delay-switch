@@ -1,3 +1,7 @@
+# Update
+
+A better implementation of this can be found at [homebridge-automation-switches](https://github.com/grover/homebridge-automation-switches). I'm keeping this around for those
+that might want to keep using this.
 
 # Delayed Switch Platform
 
